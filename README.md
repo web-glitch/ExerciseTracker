@@ -1,3 +1,24 @@
 <h1> ExerciseTracker | MERN </h1>
 
-A MERN stack app to keep track of online stuff, which you may want to view later.
+The project is about the keeping the track of about how much time we invest in exercising and keeping yourself fit.
+
+
+
+<h2> Built using </h2>
+<b> Front-end</b>
+ReactJS - Frontend framework
+Context API using useContext & useReducer hooks - For state management
+React Router - For general routing & navigation
+Material-UI w/ lots of CSS customisations - UI library
+
+
+<h2>Back-end </h2>
+Node.js - Runtime environment for JS
+Express.js - Node.js framework, makes process of building APIs easier & faster
+MongoDB - Database to store document-based data
+Mongoose - MongoDB object modeling for Node.js
+JSON Web Token - A standard to secure/authenticate HTTP requests
+Bcrypt.js - For hashing passwords
+Validator.js - For validation of JSON data
+Mongoose Unique Validator - Plugin for better error handling of unique fields within Mongoose schema
+Dotenv - To load environment variables from a .env file
