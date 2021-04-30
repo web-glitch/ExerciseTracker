@@ -14,8 +14,18 @@ The project is about the keeping the track of about how much time we invest in e
 
 <h2>Back-end </h2>
 
-Node.js - Runtime environment for JS
-Express.js - Node.js framework, makes process of building APIs easier & faster
-MongoDB Cloud Atlas - Database to store document-based data
-JSON Web Token - A standard to secure/authenticate HTTP requests
-Dotenv - To load environment variables from a .env file
+<ul>Node.js - Runtime environment for JS </ul>
+<ul> Express.js - Node.js framework, makes process of building APIs easier & faster </ul
+<ul> MongoDB Cloud Atlas - Database to store document-based data </ul>
+<ul>JSON Web Token - A standard to secure/authenticate HTTP requests </ul>
+<ul> Dotenv - To load environment variables from a .env file </ul>
+
+
+Features
+Add/update/delete entries
+Add name, , description, tags & type of link
+Filter entries by type (article, video or other), or by starred or viewed
+Click on tags to show all entries containing the tag you clicked on.
+Sort entries by oldest first, newest first, A-Z (alphabetical) or Z-A (reverse alpha.)
+Toast notifications for actions such as adding new entry, or 'starring' it etc.
+Responsive UI for all screens
