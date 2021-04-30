@@ -21,10 +21,8 @@ The project is about the keeping the track of about how much time we invest in e
 
 
 <h2> Features </h2>
-Add/update/delete entries
-Add name, , description, tags & type of link
-Filter entries by type (article, video or other), or by starred or viewed
-Click on tags to show all entries containing the tag you clicked on.
-Sort entries by oldest first, newest first, A-Z (alphabetical) or Z-A (reverse alpha.)
-Toast notifications for actions such as adding new entry, or 'starring' it etc.
-Responsive UI for all screens
+<ul>Create New User </ul>
+<ul>Add Username,Description,Duration and 	Date </ul>
+<ul>Add/update/delete entries </ul>
+<ul>Click on exercises to view all entries </ul>
+<ul>Responsive UI for all screens </ul>
