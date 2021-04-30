@@ -12,16 +12,16 @@ The project is about the keeping the track of about how much time we invest in e
   <ul> Material-UI with Bootstrap - UI library </ul> 
 
 
-<h2>Back-end </h2>
+<h3>Back-end </h3>
 
 <ul>Node.js - Runtime environment for JS </ul>
-<ul> Express.js - Node.js framework, makes process of building APIs easier & faster </ul
-<ul> MongoDB Cloud Atlas - Database to store document-based data </ul>
+<ul>Express.js - Node.js framework, makes process of building APIs easier & faster </ul
+<ul>MongoDB Cloud Atlas - Database to store document-based data </ul>
 <ul>JSON Web Token - A standard to secure/authenticate HTTP requests </ul>
-<ul> Dotenv - To load environment variables from a .env file </ul>
+<ul>Dotenv - To load environment variables from a .env file </ul>
 
 
-Features
+<h2> Features </h2>
 Add/update/delete entries
 Add name, , description, tags & type of link
 Filter entries by type (article, video or other), or by starred or viewed
