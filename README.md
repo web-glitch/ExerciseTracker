@@ -27,4 +27,4 @@ The project is about the keeping the track of about how much time we invest in e
 <ul>Click on exercises to view all entries </ul>
 <ul>Responsive UI for all screens </ul>
 
-<img src="Screenshots/ss.jpg">
+<img src="Screenshots/ss.JPG">
