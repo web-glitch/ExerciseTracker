@@ -6,10 +6,10 @@ The project is about the keeping the track of about how much time we invest in e
 
 <h2> Built using </h2>
 <h3> Front-end </h3>
-<li><ul> ReactJS - Frontend framework </ul>
+<ul> ReactJS - Frontend framework </ul>
 <ul> Rest API - For state management </ul>
  <ul> React Router - For general routing & navigation </ul>
-  <ul> Material-UI with Bootstrap - UI library </ul> </li>
+  <ul> Material-UI with Bootstrap - UI library </ul> 
 
 
 <h2>Back-end </h2>
