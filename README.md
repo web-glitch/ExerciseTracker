@@ -14,7 +14,7 @@ The project is about the keeping the track of about how much time we invest in e
 
 <h3>Back-end </h3>
 <ul>Node.js - Runtime environment for JS </ul>
-<ul>Express.js - Node.js framework, makes process of building APIs easier & faster </ul
+<ul>Express.js - Node.js framework, makes process of building APIs easier & faster </ul>
 <ul>MongoDB Cloud Atlas - Database to store document-based data </ul>
 <ul>JSON Web Token - A standard to secure/authenticate HTTP requests </ul>
 <ul>Dotenv - To load environment variables from a .env file </ul>
